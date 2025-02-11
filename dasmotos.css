@@ -3,5 +3,33 @@ body {
 }
 
 header {
-    background-image: url(pattern.jpeg);
+    background-image: url("pattern.jpeg");
+    font-size: 60px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin-top: 70px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brush-heading {
+    background-color: mediumspringgreen;
+}
+
+.frame-heading {
+    background-color: lightcoral;
+}
+
+.paint-heading {
+    background-color: skyblue;
+}
+
+strong {
+    font-weight: bold;
+    color: blue;
 }
